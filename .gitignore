@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Power BI
+*.pbixTemplate
+
+# Datos temporales
+*.tmp
+*.log

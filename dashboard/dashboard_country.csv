@@ -1,0 +1,11 @@
+country,avg_adoption,avg_users,top_industry,top_tool
+Australia,49.991,5025.079,Manufacturing,ChatGPT
+Brazil,49.987,5007.108,Technology,ChatGPT
+Canada,49.923,5050.767,Healthcare,ChatGPT
+China,49.625,5072.479,Education,ChatGPT
+France,49.786,5065.466,Healthcare,ChatGPT
+Germany,50.179,5048.854,Agriculture,ChatGPT
+India,50.059,5035.384,Finance,ChatGPT
+South Korea,49.887,5046.94,Education,ChatGPT
+UK,49.789,4998.819,Technology,ChatGPT
+USA,49.503,5041.748,Transportation,ChatGPT
