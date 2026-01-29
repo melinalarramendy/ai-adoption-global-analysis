@@ -38,7 +38,7 @@ ai-adoption-analysis/
 ├── 📓 notebooks/ # Jupyter notebooks with complete EDA
 ├── 🔧 src/ # Python scripts for data processing
 ├── 📊 data/ # Original and cleaned datasets
-├── 📋 dashboard/ # Power BI ready datasets
+├── 📋 dashboard/ 
 └── 📄 README.md # Project documentation
 ```
 ---
