@@ -33,7 +33,7 @@ Complete end-to-end analysis of AI tool adoption patterns across global enterpri
 ---
 
 ## 📁 Project Structure
-
+```bash
 ai-adoption-analysis/
 ├── 📓 notebooks/ # Jupyter notebooks with complete EDA
 ├── 🔧 src/ # Python scripts for data processing
@@ -41,7 +41,7 @@ ai-adoption-analysis/
 ├── 📈 visualizations/ # Exported charts and graphs
 ├── 📋 dashboard/ # Power BI ready datasets
 └── 📄 README.md # Project documentation
-
+```
 ---
 
 ## 🔍 Key Insights Discovered
