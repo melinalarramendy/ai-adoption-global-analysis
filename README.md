@@ -105,7 +105,7 @@ numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 jupyter>=1.0.0
-
+```
 ---
 
 ### Installation
@@ -126,7 +126,7 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ---
 
 ### Running the Analysis
@@ -136,7 +136,7 @@ python src/eda_ai_adoption.py
 
 # Explore the EDA notebook
 jupyter notebook notebooks/01_EDA_AI_Adoption.ipynb
-
+```
 ---
 
 ## 📊 Visualizations
